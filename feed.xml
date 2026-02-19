@@ -3,7 +3,7 @@
     <title>Travel Photograpy Japan</title>
     <link href="https://CarnabySnaps.github.io/travel-photography-japan/feed.xml" rel="self" />
     <link href="https://CarnabySnaps.github.io/travel-photography-japan" />
-    <updated>2026-02-19T01:21:28+00:00</updated>
+    <updated>2026-02-19T02:10:38+00:00</updated>
     <author>
         <name>Mark Carnaby</name>
     </author>
@@ -18,7 +18,6 @@
         <id>https://CarnabySnaps.github.io/travel-photography-japan/tokyo-2011-attraction-travel-tickets/</id>
         <media:content url="https://CarnabySnaps.github.io/travel-photography-japan/media/posts/18/Japan-Trip-2011-Memorabilia-1-11.webp" medium="image" />
             <category term="Travel Tickets"/>
-            <category term="Orient"/>
             <category term="Memorabilia"/>
             <category term="Japan"/>
             <category term="Attraction Tickets"/>
@@ -61,8 +60,6 @@
         <media:content url="https://CarnabySnaps.github.io/travel-photography-japan/media/posts/17/Japan-Trip-2011-Nikko-Shinkyo-Bridge-1-4.webp" medium="image" />
             <category term="Toshogu Shrine"/>
             <category term="Shinkyo Bridge"/>
-            <category term="Orient"/>
-            <category term="Nikko Shrines &amp; Temples, Shinkyo Bridge &amp; Kegon Falls"/>
             <category term="Nikko"/>
             <category term="Kegon Waterfall"/>
             <category term="Japan"/>
@@ -215,10 +212,8 @@
         <media:content url="https://CarnabySnaps.github.io/travel-photography-japan/media/posts/16/Japan-Trip-2011-Tokyo-Harajuku-1.webp" medium="image" />
             <category term="Ueno"/>
             <category term="Tokyo"/>
-            <category term="Orient"/>
             <category term="Meiji Jingu"/>
             <category term="Japan"/>
-            <category term="Harajuku, Meiji Jingu &amp; Ueno"/>
             <category term="Harajuku"/>
 
         <updated>2026-02-11T19:21:06+00:00</updated>
@@ -301,10 +296,8 @@
             <category term="Shinjuku"/>
             <category term="Shibuya"/>
             <category term="Roppongi Hills"/>
-            <category term="Orient"/>
             <category term="Japan"/>
             <category term="Asakusa"/>
-            <category term="Akihabara, Asakusa, Shibuya, Shinjuku &amp; Roppongi Hills"/>
             <category term="Akihabara"/>
 
         <updated>2026-02-11T19:17:00+00:00</updated>
@@ -450,9 +443,7 @@
         <link href="https://CarnabySnaps.github.io/travel-photography-japan/tokyo-2011-general-tokyo-harajuku-meiji-jingu-ueno-and-odaiba/"/>
         <id>https://CarnabySnaps.github.io/travel-photography-japan/tokyo-2011-general-tokyo-harajuku-meiji-jingu-ueno-and-odaiba/</id>
         <media:content url="https://CarnabySnaps.github.io/travel-photography-japan/media/posts/15/Japan-Trip-2011-Tokyo-Odaiba-1-6.webp" medium="image" />
-            <category term="Tokyo &amp; Odaiba"/>
             <category term="Tokyo"/>
-            <category term="Orient"/>
             <category term="Odaiba"/>
             <category term="Japan"/>
 
